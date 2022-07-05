@@ -12,6 +12,7 @@ https://drive.google.com/file/d/1lQtpb55U2NpoJ-yC2KxaXj87bFASLou8/view?usp=shari
 ## Project structure
 
 ```
+├── README.md              
 ├── .gitignore              
 ├── requirements.txt
 │
