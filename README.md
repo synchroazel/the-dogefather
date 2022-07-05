@@ -6,7 +6,7 @@ To what extent Musk's activity on Twitter influenced the behavior of the Dogecoi
 Do his tweets have an impact on the Dogecoin market alone, or also on other cryptocurrencies? <br>
 Do Musk’s tweets need to reference Dogecoin to have an effect?
 
-Such questions are further addressed, and elaborated with the analysis' results, in <br>
+Such questions are further addressed, and elaborated with the analysis results, in <br>
 https://drive.google.com/file/d/1lQtpb55U2NpoJ-yC2KxaXj87bFASLou8/view?usp=sharing
 
 ## Project structure
