@@ -12,6 +12,7 @@ https://drive.google.com/file/d/1lQtpb55U2NpoJ-yC2KxaXj87bFASLou8/view?usp=shari
 ## Project structure
 
 ```
+├── README.md
 ├── .gitignore              
 ├── requirements.txt
 │
@@ -32,3 +33,11 @@ https://drive.google.com/file/d/1lQtpb55U2NpoJ-yC2KxaXj87bFASLou8/view?usp=shari
     ├── text_cleaning.py
     └── predictive_model.py
 ```
+
+## Usage
+
+Before re-running the `analysis.ipynb` please install the required dependencies with
+```
+pip install -r requirements.txt
+```
+or create a virtual environment (suggested) and install the requirements.
